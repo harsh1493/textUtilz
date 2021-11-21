@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/textUtilz/static/css/main.5b5b97a0.chunk.css",
+    "main.js": "/textUtilz/static/js/main.d57efa8a.chunk.js",
+    "main.js.map": "/textUtilz/static/js/main.d57efa8a.chunk.js.map",
+    "runtime-main.js": "/textUtilz/static/js/runtime-main.10a18031.js",
+    "runtime-main.js.map": "/textUtilz/static/js/runtime-main.10a18031.js.map",
+    "static/js/2.226d21de.chunk.js": "/textUtilz/static/js/2.226d21de.chunk.js",
+    "static/js/2.226d21de.chunk.js.map": "/textUtilz/static/js/2.226d21de.chunk.js.map",
+    "static/js/3.c61279d6.chunk.js": "/textUtilz/static/js/3.c61279d6.chunk.js",
+    "static/js/3.c61279d6.chunk.js.map": "/textUtilz/static/js/3.c61279d6.chunk.js.map",
+    "index.html": "/textUtilz/index.html",
+    "static/css/main.5b5b97a0.chunk.css.map": "/textUtilz/static/css/main.5b5b97a0.chunk.css.map",
+    "static/js/2.226d21de.chunk.js.LICENSE.txt": "/textUtilz/static/js/2.226d21de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/textUtilz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a18031.js",
+    "static/js/2.226d21de.chunk.js",
+    "static/css/main.5b5b97a0.chunk.css",
+    "static/js/main.d57efa8a.chunk.js"
+  ]
+}
